@@ -98,18 +98,6 @@ const questions = [
 
     {
         type: 'input',
-        name: 'repo',
-        message: 'What is the repository name of your project?',
-        validate: (answer) => {
-            if (answer === '') {
-                return 'please provide a valid github repository name'
-            }
-            return true
-        }
-    },
-
-    {
-        type: 'input',
         name: 'email',
         message: 'What is your email:',
         validate: (answer) => {
