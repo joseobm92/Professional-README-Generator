@@ -27,8 +27,13 @@
 ```sh 
     node index.js
 ```
+
   ## Contribution
   N/A
+  ## Demo
+
+ ![alt text](./Develop/images/Sample%20from%20README%20genrator.png)
+
   ## Instructions
   Make sure you have a version of Node.js!
   CLI (npm install) and then CLI (node index.js)! From there, procced to answer all the questions prompted on the Command line regarding the readme you want to create, after answering all questions the README file is generated
