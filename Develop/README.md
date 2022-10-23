@@ -1,5 +1,5 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  # Travel-Buddy
+  # README Generator
  
   * [Installation](#installation)
   * [Description](#description)
@@ -9,17 +9,31 @@
   * [License](#license)
       
   ## Installation
-  1. Git clone, 2. npm init, 3. node index.js
+
+  1. Git clone 
+  2. install node.js 
+  3. Command line (npm install) 
+  4. Command Line (node index.js)
+
   ## Description
-  This project was created using the combination of 3 APIs(AviationStack API, Openweather API, and Google API) to  provide the functionality to an app that can search a flight number  and provide the most common flight information and weather for your destination 
+  This application helps to generate a generic readme file  for users using the Command line and node.js npm modules such as inquirer, fs, and local modules.
   ## Usage
-  It can be used to generate a proffesional README
+  Must have [Node.js](https://nodejs.org/en/) downloaded!
+
+  Then run the following command:
+```sh 
+    npm install
+``` 
+```sh 
+    node index.js
+```
   ## Contribution
-  to contribute just git push 
+  N/A
   ## Instructions
-  npm install and then node index.js
+  Make sure you have a version of Node.js!
+  CLI (npm install) and then CLI (node index.js)! From there, procced to answer all the questions prompted on the Command line regarding the readme you want to create, after answering all questions the README file is generated
   ## License
-  This project is licensed under the [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
+  This project is licensed under the [The MIT License](https://opensource.org/licenses/MIT)
       
   ## Questions
   * Checkout my [GitHub profile](https://github.com/joseobm92)

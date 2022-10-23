@@ -7,7 +7,7 @@
 function renderLicenseLink(license) {
      switch (license) {
       case 'The MIT License':
-          return '[Apache License](https://www.apache.org/licenses/LICENSE-2.0)';
+          return '[The MIT License](https://opensource.org/licenses/MIT)';
 
           case 'Apache License':
               return '[Apache License](https://www.apache.org/licenses/LICENSE-2.0)';
